@@ -1,2 +1,8 @@
 # consulting-week
 Desafío de consultoría
+
+Token de acceso de lectura a la API
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZjYxNDE2ZjdkNTc4MGUxNjUxY2UwNjYwNGZlMTNkMCIsIm5iZiI6MTc4NTQyMDY3Mi44MzksInN1YiI6IjZhNmI1YjgwYTQxZTdhMjNjNGU5YjRhOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.r71MLIyeqE44-ngEfYmnAXi0GtV1N-H1UpAPmjNlng4
+
+Clave de la API
+df61416f7d5780e1651ce06604fe13d0
