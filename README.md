@@ -22,3 +22,9 @@ Métricas clave: Evolución del interés de búsqueda pre y post-estreno, identi
 Fuentes: Análisis de Sentimientos mediante reseñas de Letterboxd, RottenTomatoes, TMBD. 
 
 Métricas clave: Calificaciones comparadas (crítica vs. audiencia), análisis de sentimiento en comentarios (positivo/negativo) y estudio detallado de la divergencia de opiniones.
+
+
+Integrantes del equipo:
+- Daniela Espinoza
+- Génesis Linares
+- Guillermo Seiler
