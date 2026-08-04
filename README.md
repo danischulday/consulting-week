@@ -1,13 +1,3 @@
-# consulting-week
-<<<<<<< HEAD
-Desafío de consultoría
-
-Token de acceso de lectura a la API
-eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZjYxNDE2ZjdkNTc4MGUxNjUxY2UwNjYwNGZlMTNkMCIsIm5iZiI6MTc4NTQyMDY3Mi44MzksInN1YiI6IjZhNmI1YjgwYTQxZTdhMjNjNGU5YjRhOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.r71MLIyeqE44-ngEfYmnAXi0GtV1N-H1UpAPmjNlng4
-
-Clave de la API
-df61416f7d5780e1651ce06604fe13d0
-=======
 Desafío de consultoría: CineMetrics.
 
 Este proyecto forma parte de la consultoría analítica para CineMetrics, una empresa cinematográfica interesada en evaluar el rendimiento integral de A Minecraft Movie (2025). El objetivo principal es determinar si la película constituyó una inversión exitosa y analizar si la fórmula —caracterizada por un alto presupuesto, una brecha notable entre la crítica especializada y la audiencia, y un fuerte impacto viral— resulta replicable para futuras adaptaciones de videojuegos.
@@ -37,4 +27,4 @@ Integrantes del equipo:
 - Daniela Espinoza
 - Génesis Linares
 - Guillermo Seiler
->>>>>>> 5df4a5702fef9f1f6aa21d39f96d98be664d32d4
+
